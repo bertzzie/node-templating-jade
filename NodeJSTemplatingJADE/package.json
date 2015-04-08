@@ -1,0 +1,13 @@
+{
+    "name": "NodeJSTemplatingJADE",
+    "version": "0.0.0",
+    "description": "NodeJSTemplatingJADE",
+    "main": "server.js",
+    "author": {
+        "name": "berts",
+        "email": ""
+    },
+    "devDependencies": { 
+        "jade": "1.9.*"
+    }
+}
